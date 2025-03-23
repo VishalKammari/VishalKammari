@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React js<br>👯 I’m looking to collaborate on Mern projects<br>🤝 I’m looking for help with<br>💬 Ask me about MERN<br>⚡ Fun fact I listen to music while working
+🔭 I’m currently working on React js<br>👯 I’m looking to collaborate on Mern projects<br><br>💬 Ask me about MERN<br>⚡ Fun fact I listen to music while working
 
 
 ## 🌐 Socials:
