@@ -1,6 +1,7 @@
 # =>About Me:
   =>I’m currently working on React js<br> I’m looking to collaborate on Mern projects<br><br> Ask me about MERN<br> => Fun fact My code runs great at night, Maybe the bugs are sleeping
 
+![](https://komarev.com/ghpvc/?username=VishalKammari&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-kammari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xKOOdle) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vishal__9764)
